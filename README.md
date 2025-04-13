@@ -1,4 +1,4 @@
-# Apple-Website-Experience
+# Apple-Website-Experience Made by Manjeet Bhati
 
 A visually immersive, single-page scrolling experience inspired by Apple's Vision Pro product page. This project combines smooth animations, video backgrounds, and interactive canvas elements to showcase the device's features in an elegant way.
 
